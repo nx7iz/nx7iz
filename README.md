@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on Web projects
-- 🌱 I’m currently learning React
-- 💬 Ask me about anything , at least i should know that ..
-- 📫 How to reach me: email me
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm me :)
+I’m currently working on Web projects
+I’m currently learning React
+Ask me about anything , at least i should know that ..
+How to reach me: email me
+Pronouns: He / Him
+Fun fact: I'm me :)
