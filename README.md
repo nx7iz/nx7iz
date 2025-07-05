@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - I’m currently working on Web projects
 - I’m currently learning React
 - Ask me about anything , at least i should know that ..
-- How to reach me: email me
+- How to reach me: email me: nomansz500@gmail.com
 - Pronouns: He / Him
 - Fun fact: I'm me :)
